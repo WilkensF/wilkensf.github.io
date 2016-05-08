@@ -9,8 +9,8 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Fabian Wilkens
+tagline: On GitHub
 author :
   name : Fabian Wilkens
   email : wilkens.fabian@gmail.com
